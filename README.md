@@ -2,7 +2,7 @@
 
 Utilize essa API para contrução da sua aplicação para o Desafio de React Native da Eduzz.
 
-Este projeto utiliza json-server para mais informações de como utiliza-lo acesse a [documentação do json-server](https://github.com/typicode/json-server).
+Este projeto utiliza json-server, para mais informações de como utiliza-lo acesse a [documentação do json-server](https://github.com/typicode/json-server).
 
 <p>&nbsp;</p>
 
